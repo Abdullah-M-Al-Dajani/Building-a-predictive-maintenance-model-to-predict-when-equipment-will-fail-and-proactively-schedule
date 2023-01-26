@@ -1,0 +1,2 @@
+# Building-a-predictive-maintenance-model-to-predict-when-equipment-will-fail-and-proactively-schedule
+A predictive maintenance model aims to prevent equipment failures in the telecommunications industry by using data and historical records to predict when maintenance is needed. This allows the company to schedule maintenance proactively, reducing equipment downtime and preventing service outages that result in lost revenue.
